@@ -42,3 +42,9 @@ ul{
   transition: 0.3s;
 }
 
+.btn-light:hover {
+  background: #FFFFFF;
+  color: #000000;
+  transition: 0.3s;
+}
+
