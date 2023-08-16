@@ -1,0 +1,43 @@
+.resume {
+    width: 100%;
+    margin: 3rem 0;
+    display:flex;
+    align-items:center;
+    justify-content: center;
+    flex-wrap: wrap;
+    height: 100%;
+}
+
+.resume .left {
+    text-align: center;
+    margin: auto;
+    padding: 1rem;
+    max-width: 350px;
+}
+
+.resume .left p{
+    margin: 1.2rem 0;
+}
+
+.resume .right {
+    max-width: 800px;
+}
+
+.resume .right .img-container {
+    display: flex;
+    position: relative;
+    align-items: center;
+    text-align: center;
+    cursor: pointer;
+}
+
+.resume .right .img {
+    max-width: 70%;
+    border: 1px solid #FFFFFF;
+}
+
+.resume .right .top {
+    padding-top: 5%;
+    display: inline-flexbox;
+    align-items: center; 
+}

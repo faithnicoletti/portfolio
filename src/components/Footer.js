@@ -29,14 +29,14 @@ const Footer = () => {
                 <p>Check out my LinkedIn and 
                     Github for more information</p>
                     <div className="social">
-                        <FaLinkedin size={30} 
-                        style={{color:"#FFFFFF", 
-                        marginRight: "2rem"
-                        }}/>
-                        <FaGithub size={30} 
-                        style={{color:"#FFFFFF", 
-                        marginRight: "2rem"
-                        }}/>
+                        <a href="https://www.linkedin.com/in/faith-nicoletti" 
+                        target="_blank" rel="noopener noreferrer">
+                            <FaLinkedin size={30} style={{color:"#FFFFFF", marginRight: "2rem"}} 
+                            /></a>
+                        <a href="https://github.com/faithnicoletti" 
+                        target="_blank" rel="noopener noreferrer">
+                            <FaGithub size={30} style={{color:"#FFFFFF", marginRight: "2rem"}} 
+                            /></a>
                     </div>
             </div>
         </div>

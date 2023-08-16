@@ -14,6 +14,7 @@ const AboutContent = () => {
                 <button className="btn">Contact</button>
             </Link>
         </div>
+        
         <div className="right">
             <div className="img-container">
                 <div className="img-stack top">
