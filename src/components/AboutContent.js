@@ -1,6 +1,7 @@
 import "./AboutContentStyles.css";
 import { Link } from "react-router-dom";
-import codingImage from "../assets/coding.png";
+import aboutImage1 from "../assets/aboutimage1.png";
+import aboutImage2 from "../assets/aboutimage2.png";
 
 import React from 'react'
 
@@ -18,12 +19,12 @@ const AboutContent = () => {
         <div className="right">
             <div className="img-container">
                 <div className="img-stack top">
-                    <img src={codingImage} 
+                    <img src={aboutImage2} 
                     className="img"
                     alt="true"/>
                 </div>
                 <div className="img-stack bottom">
-                    <img src={codingImage} 
+                    <img src={aboutImage1} 
                     className="img"
                     alt="true"/>
                 </div>
