@@ -9,9 +9,15 @@ const WorkCard = (props) => {
                 <h2 className="project-title">{props.title}</h2>
                 <div className="pro-details">
                     <p>{props.text}</p>
+                    <br/>
+                    <div class="pro-btns flex justify-between">
                     <div className="pro-btns">
-                        <NavLink to={props.view} className="btn">View</NavLink>
+                        <NavLink to={props.view} className="btn">Visit App</NavLink>
                     </div> 
+                    <div className="pro-btns">
+                        <NavLink to={props.view} className="btn">View Code</NavLink>
+                    </div>
+                    </div>
                 </div>
             </div>
   )

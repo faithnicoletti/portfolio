@@ -27,7 +27,7 @@ const Footer = () => {
             <div className="right">
                 <h4>More About Me:</h4>
                 <p>Check out my LinkedIn and 
-                    Github for more information</p>
+                    Github for more information:</p>
                     <div className="social">
                         <a href="https://www.linkedin.com/in/faith-nicoletti" 
                         target="_blank" rel="noopener noreferrer">
