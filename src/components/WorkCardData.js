@@ -28,7 +28,7 @@ const ProjectCardData = [
     },
     {
         imgscr: dreamsImage,
-        title: "Organization Goals Website",
+        title: "Organizational Bucket List Website",
         text: "Javascript, Express/Node, and MongoDB", 
         view: "https://white-field-5993.fly.dev/",
         code: "https://github.com/faithnicoletti/bucketList-project2"
