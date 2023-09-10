@@ -1,7 +1,7 @@
 import "./ResumeContentStyles.css";
 import { Link } from "react-router-dom";
 import Lightbox from './Lightbox';
-import resumeImage from "../assets/resume.png";
+import resumeImage from "../assets/resume1.png";
 
 import React, {useState} from 'react'
 

@@ -22,7 +22,7 @@ const ProjectCardData = [
     {
         imgscr: jacketImage,
         title: "Ecommerce Website",
-        text: "Full MERN Stack, HTML  and CSS", 
+        text: "Built with full MERN Stack, HTML and CSS", 
         view: "https://project4-jackets-frontend.onrender.com/",
         code: "https://github.com/faithnicoletti/project4-jackets"
     },
