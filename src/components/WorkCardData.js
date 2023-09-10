@@ -35,7 +35,7 @@ const ProjectCardData = [
     },
     {
         imgscr: gameImage,
-        title: "Minesweeper Game",
+        title: "Minesweeper Game (Forest Escape)",
         text: "Build with Javascript, HTML and CSS", 
         view: "https://main--ornate-sorbet-d2b205.netlify.app/",
         code: "https://github.com/faithnicoletti/faithGameProject1"
